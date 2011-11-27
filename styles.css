@@ -18,6 +18,7 @@ img[id=ctaimg]{
 header h1:nth-child(1) {
     width: auto
     padding: 5px;
+    margin: 0 0 20px 0;
     font: bold 36px Helvetica;
     color: #E2EF35;
     text-align: center;
@@ -70,8 +71,8 @@ ul[id=sportslist] ul{
     padding: 15px;
     background-image: -webkit-linear-gradient(top, #474745, #5c5b5a, #474745 100%);
 }
-ul[id=sportslist] ul:nth-child(1){
-    margin: 20px 0 2px 0;
+ul[id=sportslist] * ul:nth-child(1){
+    margin: 25px 0 2px 0;
 }
 ul[id=sportslist] a{
     text-decoration: none;
