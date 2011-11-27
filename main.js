@@ -249,13 +249,13 @@ window.addEventListener("DOMContentLoaded", function(){
         //Group validation
         if (getSport.value == "Choose sport..."){
             var sportError = "Please choose a sport.";
-            getSport.style.border = "1px solid yellow";
+            getSport.style.border = "1px solid red";
             messageAry.push(sportError);
         }
         //Team Name validation
         if (getTeamName.value == ""){
             var teamNameError = "Please enter a team name."
-            getTeamName.style.border = "1px solid yellow";
+            getTeamName.style.border = "1px solid red";
             messageAry.push(teamNameError);
         }
         //Display errors

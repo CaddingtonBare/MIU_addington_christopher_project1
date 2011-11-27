@@ -18,7 +18,7 @@ img[id=ctaimg]{
 header h1:nth-child(1) {
     width: auto
     padding: 5px;
-    font: bold 36px Impact;
+    font: bold 36px Helvetica;
     color: #E2EF35;
     text-align: center;
     text-shadow: 1px 1px #5f6b5f;
@@ -45,8 +45,8 @@ select option {
     font: 14px Helvetica;
 }
 form fieldset {
-    border: thin solid #627681;
-    background-image: -webkit-linear-gradient(top, #61c264, #55a557 25%);
+    border: thin solid #141714;
+    background-image: -webkit-linear-gradient(top, #474745, #5c5b5a 25%);
 }
 fieldset legend {
     font: bold 18px Helvetica;
@@ -63,10 +63,10 @@ ul li {
     list-style: none;
 }
 ul[id=sportslist] ul{
-    list-style: none;
     text-align: center;
     margin: 2px 0 2px 0;
     border: thin solid #141714;
+    border-radius: 10px;
     padding: 15px;
     background-image: -webkit-linear-gradient(top, #474745, #5c5b5a 30%);
 }
@@ -92,7 +92,7 @@ nav a {
 h1 a:nth-child(1) {
     font: bold 18px Helvetica;
     padding: 5px;
-    border: thin solid #627681;
+    border: thin solid #141714;
     border-radius: 5px;
     background-image: -webkit-linear-gradient(top, #94d996, #71a873 100%);
     box-shadow: 2px 2px 0 0 rgba(110,110,110,1);
@@ -103,7 +103,6 @@ section p:nth-child(1) {
 li label {
     font: 14px Helvetica;
 }
-
 input[type=submit] {
     margin: 20px 0 0 0;
     font: bold 14px Helvetica;
