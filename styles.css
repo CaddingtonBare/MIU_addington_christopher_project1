@@ -24,7 +24,7 @@ header h1:nth-child(1) {
     text-shadow: 1px 1px #5f6b5f;
     border: 1px solid #141714;
     border-radius: 10px;
-    background-image: -webkit-linear-gradient(top, #474745, #5c5b5a 100%);
+    background-image: -webkit-linear-gradient(top, #474745, #5c5b5a 75%);
 }
 h1 label:nth-child(1) {
     font: bold 20px Helvetica;
@@ -68,7 +68,7 @@ ul[id=sportslist] ul{
     border: thin solid #141714;
     border-radius: 10px;
     padding: 15px;
-    background-image: -webkit-linear-gradient(top, #474745, #5c5b5a 30%);
+    background-image: -webkit-linear-gradient(top, #474745, #5c5b5a, #474745 100%);
 }
 ul[id=sportslist] ul:nth-child(1){
     margin: 20px 0 2px 0;
