@@ -9,14 +9,19 @@ body {
     background-image: -webkit-gradient(#9FD39F, #8FBC8F 100%);
     background-repeat: no-repeat;
 }
+img[id=ctaimg]{
+    margin: 15px 0;
+    width: 100%;
+}
 header h1:nth-child(1) {
     margin: 0px 0px 20px 0px;
     padding: 10px;
-    font: bold 30px Helvetica;
+    font: bold 30px Score Board;
     color: #00000f;
     text-align: center;
     text-shadow: 1px 1px #5f6b5f;
     border: thin solid #627681;
+    border-radius: 0px 0px 15px 0px;
     background-image: -webkit-linear-gradient(top, #61c264, #55a557 50%); 
 }
 h1 label:nth-child(1) {
