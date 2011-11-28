@@ -1,7 +1,7 @@
 // Name: Christopher Addington
-// Date: 17 November, 2011
-// Assignment: Project 4
-// VFW Term 1111
+// Date: 27 November, 2011
+// Assignment: Project 1
+// MIU Term 1112
 
 window.addEventListener("DOMContentLoaded", function(){
     function $(x) {
