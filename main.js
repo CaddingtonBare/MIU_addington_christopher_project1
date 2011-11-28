@@ -3,7 +3,7 @@
 // Assignment: Project 1
 // MIU Term 1112
 
-window.addEventListener("DOMContentLoaded", function(){
+window.addEventListener("DOMContentLoaded", function () {
     function $(x) {
         var theElement = document.getElementById(x);
         return theElement;
@@ -272,7 +272,7 @@ window.addEventListener("DOMContentLoaded", function(){
         }
     }
     
-    var selectSport = ["Choose sport...", "Basketball", "Racquetball", "Soccer"],
+    var selectSport = ["Choose sport...", "Basketball", "Football", "Handball", "Racquetball", "Soccer"],
         errMsg = $('errors');
     fillOptions();
     //Link/Submit Click events
