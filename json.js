@@ -6,7 +6,7 @@
 var json = {
     "team1": {
         "sports":           ["Sport:", "Basketball"],
-        "teamname":         ["Team Name:", "Dayton Dodgers"],
+        "teamname":         ["Team Name:", "Dayton Ballers"],
         "teamsize":         ["Team Size:", "3"],
         "availabletime":    ["Only evening games:", "No"],
         "nextdate":         ["Next available date:", "2011-11-11"],
@@ -62,11 +62,11 @@ var json = {
     },
     "team8": {
         "sports":           ["Sport:", "Football"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
+        "teamname":         ["Team Name:", "50-yard heroes"],
+        "teamsize":         ["Team Size:", "2"],
         "availabletime":    ["Only evening games:", "No"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
+        "notes":            ["Notes:", "Saturday morning kicker's practice"]
     },
     "team9": {
         "sports":           ["Sport:", "Racquetball"],
@@ -82,126 +82,86 @@ var json = {
         "teamsize":         ["Team Size:", "1"],
         "availabletime":    ["Only evening games:", "Yes"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Currently #4 in ladder"]
+        "notes":            ["Notes:", "Currently #4, sched match with Gordo for #3"]
     },
     "team11": {
         "sports":           ["Sport:", "Racquetball"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
+        "teamname":         ["Team Name:", "Doubles champs"],
+        "teamsize":         ["Team Size:", "2"],
         "availabletime":    ["Only evening games:", "No"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
+        "notes":            ["Notes:", "Monthly doubles tourney team with Jackie"]
     },
     "team12": {
         "sports":           ["Sport:", "Racquetball"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
-        "availabletime":    ["Only evening games:", "No"],
+        "teamname":         ["Team Name:", "Ladder climber"],
+        "teamsize":         ["Team Size:", "1"],
+        "availabletime":    ["Only evening games:", "Yes"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
+        "notes":            ["Notes:", "Unofficial 25-35 gym ladder match"]
     },
     "team13": {
         "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
-        "availabletime":    ["Only evening games:", "No"],
+        "teamname":         ["Team Name:", "Weekend warriors"],
+        "teamsize":         ["Team Size:", "6"],
+        "availabletime":    ["Only evening games:", "Yes"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
+        "notes":            ["Notes:", "Saturday night 6v6 pickup league"]
     },
     "team14": {
         "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
+        "teamname":         ["Team Name:", "Monterey world cup champs"],
+        "teamsize":         ["Team Size:", "2"],
         "availabletime":    ["Only evening games:", "No"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
+        "notes":            ["Notes:", "2v2 world cup bracket"]
     },
     "team15": {
         "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
+        "teamname":         ["Team Name:", "Winning Eleven"],
         "teamsize":         ["Team Size:", "11"],
-        "availabletime":    ["Only evening games:", "No"],
+        "availabletime":    ["Only evening games:", "Yes"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
+        "notes":            ["Notes:", "Wed. night arena league"]
     },
     "team16": {
         "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
-        "availabletime":    ["Only evening games:", "No"],
+        "teamname":         ["Team Name:", "Underdogs"],
+        "teamsize":         ["Team Size:", "3"],
+        "availabletime":    ["Only evening games:", "Yes"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
+        "notes":            ["Notes:", "3v3 fun league - Thurs. night"]
     },
     "team17": {
-        "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
+        "sports":           ["Sport:", "Tennis"],
+        "teamname":         ["Team Name:", "Wimbledon Wanna-be"],
+        "teamsize":         ["Team Size:", "1"],
         "availabletime":    ["Only evening games:", "No"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
+        "notes":            ["Notes:", "Sat. afternoon casual league"]
     },
     "team18": {
-        "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
-        "availabletime":    ["Only evening games:", "No"],
+        "sports":           ["Sport:", "Tennis"],
+        "teamname":         ["Team Name:", "Federer Fanbois"],
+        "teamsize":         ["Team Size:", "2"],
+        "availabletime":    ["Only evening games:", "Yes"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
+        "notes":            ["Notes:", "Mon. night racquet club doubles"]
     },
     "team19": {
-        "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
+        "sports":           ["Sport:", "Tennis"],
+        "teamname":         ["Team Name:", "Couples Club"],
+        "teamsize":         ["Team Size:", "2"],
         "availabletime":    ["Only evening games:", "No"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
+        "notes":            ["Notes:", "Church couples doubles matches"]
     },
     "team20": {
-        "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
+        "sports":           ["Sport:", "Tennis"],
+        "teamname":         ["Team Name:", "Singles practice"],
+        "teamsize":         ["Team Size:", "1"],
         "availabletime":    ["Only evening games:", "No"],
         "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
-    },
-    "team21": {
-        "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
-        "availabletime":    ["Only evening games:", "No"],
-        "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
-    },
-    "team22": {
-        "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
-        "availabletime":    ["Only evening games:", "No"],
-        "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
-    },
-    "team23": {
-        "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
-        "availabletime":    ["Only evening games:", "No"],
-        "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
-    },
-    "team24": {
-        "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
-        "availabletime":    ["Only evening games:", "No"],
-        "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
-    },
-    "team25": {
-        "sports":           ["Sport:", "Soccer"],
-        "teamname":         ["Team Name:", ""],
-        "teamsize":         ["Team Size:", "11"],
-        "availabletime":    ["Only evening games:", "No"],
-        "nextdate":         ["Next available date:", "2011-11-11"],
-        "notes":            ["Notes:", "Undefeated team is undefeated"]
+        "notes":            ["Notes:", "Team for scheduling random singles matches"]
     }
 };
