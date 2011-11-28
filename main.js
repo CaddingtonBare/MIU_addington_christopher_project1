@@ -254,7 +254,7 @@ window.addEventListener("DOMContentLoaded", function () {
         }
     }
     
-    var selectSport = ["Choose sport...", "Basketball", "Football", "Handball", "Racquetball", "Soccer"],
+    var selectSport = ["Choose sport...", "Basketball", "Football", "Racquetball", "Soccer", "Tennis"],
         errMsg = $('errors');
     fillOptions();
     //Link/Submit Click events
