@@ -134,11 +134,10 @@ window.addEventListener("DOMContentLoaded", function () {
     //JSON OBJECT to autofill default localStorage data.
     function autoFillData(){
         //Store JSON to localStorage
-        for(var n in json){
+        for (var n in json){
             var id = Math.floor(Math.random()*42000000);
             localStorage.setItem(id, JSON.stringify(json[n]));
         }
-    
     }
     
     //makeItemLinks function
