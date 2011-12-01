@@ -70,6 +70,7 @@ ul[id=sportslist] ul{
     text-shadow: 1px 1px #141714;
     font: bold 24px Helvetica;
     margin: 2px 0 2px 0;
+    width: 80%;
     border: thin solid #141714;
     border-radius: 10px;
     padding: 15px;
